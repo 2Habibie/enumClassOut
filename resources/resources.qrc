@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>languages/EnumClassOut_en_US.ts</file>
+    </qresource>
+</RCC>
